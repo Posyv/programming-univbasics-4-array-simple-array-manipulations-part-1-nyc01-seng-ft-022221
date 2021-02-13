@@ -19,5 +19,5 @@ ice_cream_brands.shift
 end
 
 def shift_with_args (array)
-shift_with_args.shift(1)
+array.shift(2)
 end
